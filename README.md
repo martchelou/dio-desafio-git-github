@@ -1,1 +1,3 @@
-# dio-desafio-git-github
+# dio desafio git github
+
+Repositório para o desafio da Dio.me
